@@ -1,6 +1,6 @@
 ---
 layout: mechanics
-title: LeSS - это Скрам
+title: Large-Scale Scrum is Scrum
 order: 10
 ---
 

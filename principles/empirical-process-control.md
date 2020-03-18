@@ -1,5 +1,5 @@
 ---
-title: Эмпирический Контроль Процесса
+title: Empirical process control
 order: 50
 ---
 
