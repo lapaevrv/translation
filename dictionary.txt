@@ -44,6 +44,7 @@ Multi-site - распределённый
 Multi-site teams - распределённые команды
 Multi-team - Многокомандный
 Multi-team Product Backlog Refinement - Многокомандное Уточнение Бэклога Продукта
+NVA - НДЦ (не-добавляющее-ценности)
 One-piece flow - поток в одну задачу (изделие)
 Оne-team Scrum - однокомандный Скрам
 Overall Retrospective - Общая Ретроспектива
@@ -57,6 +58,7 @@ Product Backlog item - Элемент Бэклога Продукта
 Product Backlog Refinement - Уточнение Бэклога Продукта
 Product Owner - Владелец Продукта
 Product Owner Team - Команда Владельца Продукта
+Pull system - вытягивающая система
 Rate of delivery - стоимость доставки
 Requirement Area - Область Требований
 Scrum - Скрам
@@ -71,3 +73,4 @@ Team-level Product Backlog Refinement - Командное Уточнение Б
 Value - ценность
 WIP - НЗР (Незавершенная Работа)
 Wokrshop - сессия совместной работы
+Yokoten - йокотен (принцип горизонтального распространения знаний)
