@@ -223,6 +223,7 @@ Moving toward flow is associated with applied queueing theory, pull systems, and
   <img class="rounded shadowed" src="/img/lean-thinking/waiter.jpg" alt="waiter.jpg">
   <figcaption>Push or pull?</figcaption>
 </figure>
+
 **Pull versus push**---Consider a process for manufacturing and storing laptop computers. In a pure [pull system](https://www.youtube.com/watch?v=_aeAtSiRpF0) no laptop is built or stored in inventory until there is a customer order. *Zero inventory* and *zero WIP* is a goal, and work is done only in response to a ‘pull’ signal from the customer. That is the key meaning of pull: Build in response to a signal from the ‘customer,’ and otherwise rest or improve. Pull examples? Printing just the twenty-book order or preparing just one restaurant dish.
 
 *But a pull system goes deeper than that*---the ‘customer’ is not just the final customer. Rather, in a multi-stage process with an upstream team doing partial work before a downstream team, *a downstream team is the customer to their upstream team* . In a pure pull system the upstream team does not create anything unless pulled from downstream request.
@@ -262,6 +263,3 @@ Respect for people also includes fostering a work culture and morale consistent 
   <img src="/img/lean-thinking/respect_for_people.png" alt="respect_for_people.png">
   <figcaption>Some implications of respect for people in lean thinking.</figcaption>
 </figure>
-
-
-
