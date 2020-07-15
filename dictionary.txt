@@ -63,6 +63,7 @@ Product Backlog Refinement - Уточнение Бэклога Продукта
 Product Owner - Владелец Продукта
 Product Owner Team - Команда Владельца Продукта
 Pull system - вытягивающая система
+Queueing Theory - Теория Массового Обслуживания
 Rate of delivery - стоимость доставки
 Requirement Area - Область Требований
 Scrum - Скрам
